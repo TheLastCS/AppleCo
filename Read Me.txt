@@ -1,0 +1,14 @@
+Username: Admin
+Password: Computing
+
+*Please unpack and extract the files first before using the website otherwise some of the HTML/CSS files/JS files will not work.
+(I've tested it beforehand just to make sure)
+
+*Open log in page first before any other webpage of the website
+
+*I used JQuery.min and Skel.min as a way to have an interactive navigation panel and also as source for my icons.
+*Main.js is composed of Jquery and Javascript
+*Util.js is composed of purely Jquery
+*Slide.js is composed of purely Javascript
+
+*Majority of photos used are original especially in the process making/procedure.
